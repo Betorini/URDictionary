@@ -1,0 +1,2 @@
+-keep class com.urdictionary.** { *; }
+-keepclassmembers class com.urdictionary.** { *; }
